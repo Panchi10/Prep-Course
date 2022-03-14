@@ -1,0 +1,10 @@
+h1{ color: pink;}
+
+#thirdDiv{height: 600px;
+          width: 500px;
+          padding: 50px;
+          background-color: aqua;
+         border:5px solid black;}
+#spanId {font-size: 18px;
+        margin: 50px;}
+        #thirdDiv,ul,li, img{width: 400px;}
